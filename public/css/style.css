@@ -1,0 +1,45 @@
+.banner{
+    background: #212529;
+    color: white;
+    padding: 59px;
+    border-radius: 12px;
+}
+
+.banner>h1 {
+    font-size: 48px;
+}
+
+.banner>p {
+    font-size: 24px;
+}
+
+.tombol-manage{
+    background: lightblue;
+    color: black;
+}
+
+.tombol-manage:hover {
+    color: burlywood;
+}
+
+.product-content{
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.product-content>.nama {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.product-content>.harga {
+    font-size: 20px;
+}
+
+.product-content>.jumlah {
+    font-size: 15px;
+    margin-top: 8px;
+}
+
+
+
